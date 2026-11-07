@@ -10,5 +10,5 @@ func whileloop() {
 		sum += sum
 	}
 	fmt.Println(sum)
-	switchdemo()
+	
 }
